@@ -1,0 +1,6 @@
+framework module Pods_TestView_TestViewUITests {
+  umbrella header "Pods-TestView-TestViewUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
